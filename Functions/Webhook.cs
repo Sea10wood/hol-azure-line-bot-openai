@@ -1,9 +1,3 @@
-using System.Collections.Generic;
-using System.Net.Http;
-using System.Text;
-using Microsoft.Extensions.Configuration;
-// using Azure;
-// using Azure.AI.OpenAI;
 using System;
 using System.IO;
 using System.Threading.Tasks;
